@@ -1,0 +1,22 @@
+# server storage (uploaded files + temp uploads)
+storage/
+
+# test files
+*.txt
+*.bin
+*.part
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# packet captures
+*.pcap
+*.pcapng
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
